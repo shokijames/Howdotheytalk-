@@ -1,6 +1,4 @@
 # Howdotheytalk-
-I will be using vaious resources for the contents here.
-Feel free to use anything you find interesting.
 <div class="wrapper">
   <header id="nav" role="banner">
   <nav role="navigation">
